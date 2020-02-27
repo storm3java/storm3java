@@ -4,9 +4,10 @@ Add the relevant dependency to your project:
 ## Maven
 java:
 ```
+<!-- https://mvnrepository.com/artifact/com.github.storm3java/storm3java -->
 <dependency>
-    <groupId>io.github.moacchain</groupId>
-    <artifactId>core</artifactId>
-    <version>0.1.0</version>
+    <groupId>com.github.storm3java</groupId>
+    <artifactId>storm3java</artifactId>
+    <version>0.0.1</version>
 </dependency>
 ```
